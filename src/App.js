@@ -2,7 +2,7 @@ import './App.css';
 import React, { Component } from 'react';
 import { Switch, Route, Redirect } from 'react-router-dom';
 import AuthPage from './pages/AuthPage/AuthPage';
-import DonationPage from './pages/DontationPage/DontationPage';
+import DonationPage from './pages/DonationPage/DontationPage';
 import ProfilePage from './pages/ProfilePage/ProfilePage';
 
 export default class App extends Component {
